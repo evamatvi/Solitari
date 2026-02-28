@@ -60,4 +60,7 @@ Priority has been given to:
 Each class has its own header file (.h) and implementation file (.cpp), making the project easier to understand and extend.
 
 
+Autor:
+Eva Matabosch Vidal
+
 
